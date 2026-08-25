@@ -1,7 +1,7 @@
 ---
 title: "HikariCP는 어떻게 커넥션을 관리할까"
 date: "2026-05-29"
-tags: [ "HikariCP", "Connection Pool", "Java", "Spring Boot", "JDBC" ]
+tags: ["HikariCP", "Connection Pool", "Java", "Spring Boot", "JDBC"]
 description: "Spring Boot의 기본 커넥션 풀 HikariCP가 빠른 이유"
 ---
 
